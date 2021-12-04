@@ -17,8 +17,8 @@ export const Avatar = ({ src, children: childrenProp, size, ...props }) => {
         height: 80,
         fontSize: 24,
         ...(size === "sm" && {
-          width: 40,
-          height: 40,
+          width: 64,
+          height: 64,
           fontSize: 20,
         }),
         ...(size === "lg" && {
