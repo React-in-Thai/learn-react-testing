@@ -14,6 +14,8 @@ yarn
 
 # แบบฝึกหัด
 
+**Avatar**
+
 1. สร้าง Avatar component ที่มี properties ดังนี้
   - `src`: รูปที่ใช้แสดง (หากไม่ใส่ `src` มาให้แสดงเป็น ตัวอักษร)
   - `children`: ตัวอักษร หรือ ไอคอน ที่แสดง หากไม่มี `src`
@@ -27,3 +29,6 @@ yarn
 4. เปิดใช้งาน chromatic
 5. ทดลองเปิด PR (pull request) และ setup github check ในการรัน unit test และ visual test (chromatic)
    - หากเทสไม่ผ่าน ไม่สามารถ merge ได้
+
+**AvatarGroup**
+ตัวอย่าง https://mui.com/components/avatars/#grouped
