@@ -7,7 +7,7 @@ export default {
 export const Basic = () => (
   <Avatar
     aria-label="Your name"
-    src="https://avatars.githubusercontent.com/u/{your_github_id}?s=100&v=4"
+    src="https://avatars.githubusercontent.com/u/18292247?s=160&v=4"
   />
 );
 
