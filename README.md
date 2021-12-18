@@ -14,6 +14,8 @@ yarn
 
 # แบบฝึกหัด
 
+📹 [วิดีโอประกอบ](https://www.facebook.com/devMasterSomeday/videos/954342755484426)
+
 **Avatar**
 
 1. สร้าง Avatar component ที่มี properties ดังนี้
